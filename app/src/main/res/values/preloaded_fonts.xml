@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/arapey</item>
+        <item>@font/brawler</item>
+        <item>@font/cinzel</item>
+        <item>@font/hanalei</item>
+        <item>@font/hanalei_fill</item>
+        <item>@font/kumar_one_outline</item>
+        <item>@font/nosifer</item>
+        <item>@font/rock_salt</item>
+        <item>@font/swanky_and_moo_moo</item>
+    </array>
+</resources>
